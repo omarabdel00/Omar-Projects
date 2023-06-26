@@ -1,0 +1,31 @@
+C:\Omar\Project\Method Class Assignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Omar\Project\Method Class Assignment\bin\Debug\net6.0\appsettings.json
+C:\Omar\Project\Method Class Assignment\bin\Debug\net6.0\Method Class Assignment.staticwebassets.runtime.json
+C:\Omar\Project\Method Class Assignment\bin\Debug\net6.0\Method Class Assignment.exe
+C:\Omar\Project\Method Class Assignment\bin\Debug\net6.0\Method Class Assignment.deps.json
+C:\Omar\Project\Method Class Assignment\bin\Debug\net6.0\Method Class Assignment.runtimeconfig.json
+C:\Omar\Project\Method Class Assignment\bin\Debug\net6.0\Method Class Assignment.dll
+C:\Omar\Project\Method Class Assignment\bin\Debug\net6.0\Method Class Assignment.pdb
+C:\Omar\Project\Method Class Assignment\obj\Debug\net6.0\Method Class Assignment.csproj.AssemblyReference.cache
+C:\Omar\Project\Method Class Assignment\obj\Debug\net6.0\Method Class Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Omar\Project\Method Class Assignment\obj\Debug\net6.0\Method Class Assignment.AssemblyInfoInputs.cache
+C:\Omar\Project\Method Class Assignment\obj\Debug\net6.0\Method Class Assignment.AssemblyInfo.cs
+C:\Omar\Project\Method Class Assignment\obj\Debug\net6.0\Method Class Assignment.csproj.CoreCompileInputs.cache
+C:\Omar\Project\Method Class Assignment\obj\Debug\net6.0\Method Class Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Omar\Project\Method Class Assignment\obj\Debug\net6.0\Method Class Assignment.RazorAssemblyInfo.cache
+C:\Omar\Project\Method Class Assignment\obj\Debug\net6.0\Method Class Assignment.RazorAssemblyInfo.cs
+C:\Omar\Project\Method Class Assignment\obj\Debug\net6.0\staticwebassets\msbuild.Method Class Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Omar\Project\Method Class Assignment\obj\Debug\net6.0\staticwebassets\msbuild.build.Method Class Assignment.props
+C:\Omar\Project\Method Class Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Method Class Assignment.props
+C:\Omar\Project\Method Class Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Method Class Assignment.props
+C:\Omar\Project\Method Class Assignment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Omar\Project\Method Class Assignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Omar\Project\Method Class Assignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Omar\Project\Method Class Assignment\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Omar\Project\Method Class Assignment\obj\Debug\net6.0\scopedcss\bundle\Method Class Assignment.styles.css
+C:\Omar\Project\Method Class Assignment\obj\Debug\net6.0\scopedcss\projectbundle\Method Class Assignment.bundle.scp.css
+C:\Omar\Project\Method Class Assignment\obj\Debug\net6.0\Method Class Assignment.dll
+C:\Omar\Project\Method Class Assignment\obj\Debug\net6.0\refint\Method Class Assignment.dll
+C:\Omar\Project\Method Class Assignment\obj\Debug\net6.0\Method Class Assignment.pdb
+C:\Omar\Project\Method Class Assignment\obj\Debug\net6.0\Method Class Assignment.genruntimeconfig.cache
+C:\Omar\Project\Method Class Assignment\obj\Debug\net6.0\ref\Method Class Assignment.dll
