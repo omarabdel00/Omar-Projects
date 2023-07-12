@@ -1,17 +1,7 @@
 ﻿using System;
-using System.Data.Entity;
+
 namespace EF6CodeFirstDemo
 {
-    public class SchoolContext : DbContext
-    {
-        public SchoolContext()
-        {
-
-        }
-        // Entities        
-        public DbSet<Student> Students { get; set; }
-        public DbSet<Grade> Grades { get; set; }
-    }
     internal class Program
     {
         private static void Main(string[] args)
